@@ -4,7 +4,11 @@ function App() {
  
   return (
     <>
-      App
+      <div className="card">
+        <h2>Rich Sanches</h2>
+        <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"/>
+
+      </div>
       
     </>
   )

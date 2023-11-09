@@ -1,0 +1,16 @@
+.card{
+  border: 0.1rem solid black;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0.25rem 0.25rem black;
+  text-align: center;
+  background: #f8f8f8;
+}
+.card > img{
+  border-radius: 1rem;
+  background: #f8f8f8;
+}
+.card > h2{
+  font-family: Inter, Verdana;
+
+}
